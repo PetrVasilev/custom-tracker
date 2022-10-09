@@ -1,7 +1,8 @@
 1. Before start project create .env file in root of project:
 
 ```
-PORT=8000
+BACKEND_PORT=8001
+FRONTEND_PORT=8000
 MONGO_URL=mongodb://localhost:27017/tracker
 ```
 
