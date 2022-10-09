@@ -6,6 +6,7 @@ MONGO_URL=mongodb://localhost:27017/tracker
 ```
 
 2. Install packages:
+
 ```
 yarn install
 ```
