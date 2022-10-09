@@ -1,4 +1,4 @@
-1. Before start project create .env file in root of project:
+1. Before start project create `.env` file in root of project:
 
 ```
 BACKEND_PORT=8001
